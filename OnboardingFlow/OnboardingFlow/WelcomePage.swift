@@ -15,17 +15,17 @@ struct WelcomePage: View {
                     .frame(width: 150, height: 150)
                     .foregroundStyle(.tint)
                 
-                Image(systemName: "figure.2.and.child.holdinghands")
+                Image(systemName: "cat.fill")
                     .font(.system(size: 70))
                     .foregroundStyle(.white)
             }
             
-            Text("Welcome to MyApp")
+            Text("제 고양이를 소개합니다")
                 .font(.title)
                 .fontWeight(.semibold)
                 .padding(.top)
             
-            Text("Description text")
+            Text("포포")
                 .font(.title2)
         }
         .padding()
