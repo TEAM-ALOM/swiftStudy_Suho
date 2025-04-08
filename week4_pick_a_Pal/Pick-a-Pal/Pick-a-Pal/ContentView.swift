@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  DiceRoller
+//  Pick-a-Pal
 //
-//  Created by 정수호 on 4/7/25.
+//  Created by 정수호 on 4/8/25.
 //
 
 import SwiftUI
